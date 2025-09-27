@@ -1,12 +1,17 @@
-## Hi there 👋
+# Nortlin ✨
 
-<!--
+Bem-vindo ao **Nortlin**! 🚀  
+Um grupo focado em tecnologia, inovação e criatividade.  
+O "X" é o nosso ícone de identidade, representando evolução e conexão.
 
-**Here are some ideas to get you started:**
+## 🔥 Sobre
+- Nome único e moderno
+- Comunidade com foco em desenvolvimento e ideias criativas
+- Espaço para compartilhar projetos, aprender e evoluir juntos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 Objetivo
+Construir um ambiente colaborativo e inovador para pessoas apaixonadas por tecnologia.
+
+---
+
+Feito com 💙 pelo time **Nortlin**
