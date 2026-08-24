@@ -1,6 +1,6 @@
-# Nortlin ✨
+# Nythric ✨
 
-Bem-vindo ao **Nortlin**! 🚀  
+Bem-vindo ao **Nythric**! 🚀  
 Um grupo focado em tecnologia, inovação e criatividade.  
 
 
